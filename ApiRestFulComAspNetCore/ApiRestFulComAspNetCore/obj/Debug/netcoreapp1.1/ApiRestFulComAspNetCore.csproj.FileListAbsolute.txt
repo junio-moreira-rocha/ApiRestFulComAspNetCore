@@ -1,0 +1,11 @@
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\bin\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.deps.json
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\bin\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.runtimeconfig.json
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\bin\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.runtimeconfig.dev.json
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\bin\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.dll
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\bin\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.pdb
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.csprojAssemblyReference.cache
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.AssemblyInfoInputs.cache
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.AssemblyInfo.cs
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.dll
+C:\Users\junio\Documents\Cursos\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\ApiRestFulComAspNetCore\obj\Debug\netcoreapp1.1\ApiRestFulComAspNetCore.pdb
